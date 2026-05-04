@@ -1,3 +1,6 @@
 [submodule "redis-demonstrtion"]
 	path = redis-demonstrtion
 	url = https://github.com/surrya1198/redis-demonstrtion.git
+[submodule "vendorservice"]
+	path = vendorservice
+	url = https://github.com/surrya1198/vendorservice.git
